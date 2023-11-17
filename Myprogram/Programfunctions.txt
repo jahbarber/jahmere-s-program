@@ -1,0 +1,5 @@
+Functions I will be using:While loops
+maybe for loops
+def
+if or else statement variable 
+The date and time 
